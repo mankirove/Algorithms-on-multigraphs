@@ -1,0 +1,4 @@
+There are 1 file which could be found in Exe folder: program.exe
+
+In order to run them double click on this file and application will be opened. 
+All necessary instructions on how to use this application you can find in the application.
